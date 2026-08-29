@@ -1,0 +1,16 @@
+# Raw dataset is large - not committed. See data/raw/README.md for download link.
+data/raw/*.csv
+data/raw/*.xlsx
+!data/raw/README.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.vscode/

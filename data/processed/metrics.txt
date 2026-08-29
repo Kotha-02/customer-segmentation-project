@@ -1,0 +1,4 @@
+customers=4338
+total_revenue=8887226.89
+silhouette_k4=0.6162
+best_k_by_silhouette=2
